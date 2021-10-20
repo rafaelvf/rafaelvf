@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/72759173/138168932-aff98f05-6453-4c66-a191-5952b37331a1.png)
 
-
-- 👋 Hi, I’m Rafael a Full-Stack developer who loves to create new things that serve a purpose 
+<h2 align="center"> Hi there I´m Rafael</a> 👋</h2>
+- 👋 Hi, I’m a Full-Stack developer who loves to create new things that serve a purpose 
 - 👀 I’m interested in Web development, blockchain technology, Cybersecurity and AI. 
 - 🌱 I’m currently learning React, typescript, MongoDb.
 - 💞️ I’m looking to collaborate on any project or idea that makes me feel I am contributing something to the world. I want my time spent on earth to have a purpose.
