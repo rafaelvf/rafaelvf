@@ -27,7 +27,7 @@ made in the following technologies:
 - Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap <br />
 <br />
 
-<h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Countries App</a> - Academic project for Henry</h3>
+<h3> <a href="https://github.com/rafaelvf/Countries" target="_blank">Countries App</a> - Academic project for Henry</h3>
 Completed a single-page application, where you can learn andretrieve data about every country in the world.
 It covers the front and backend,
 databases, and the use of API's.
